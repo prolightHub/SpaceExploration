@@ -1,0 +1,34 @@
+{
+  "name": "spaceexploration",
+  "displayName": "SpaceExploration",
+  "version": "0.0.1",
+  "description": "A game where you travel through in space.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "prolightHub",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prolightHub/SpaceExploration"
+  },
+  "dependencies": {
+    "cordova-browser": "^6.0.0",
+    "ionic-framework": "^2.0.0-beta.2"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "^1.3.3"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    },
+    "platforms": [
+      "browser"
+    ]
+  }
+}
