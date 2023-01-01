@@ -9,7 +9,7 @@
   "author": "prolightHub",
   "license": "ISC",
   "dependencies": {
-    "phaser": "^3.17.0",
+    "phaser": "^3.55.2",
     "uniq": "^1.0.1"
   }
 }
